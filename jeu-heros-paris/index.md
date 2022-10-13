@@ -1,0 +1,1 @@
+Ceci est le départ du Labyrinthe
