@@ -1,6 +1,6 @@
 #12eme arrondissement
 
-![12eme arrondissement](/jeu-heros-paris/img12eme.jpg"12eme arrondissement")
+![12eme arrondissement](/jeu-heros-paris/img12eme.jpg "12eme arrondissement")
 
 
 Bordé au nord par les 11e et 20e arrondissements, à l'ouest par le 4e arrondissement, au sud par la Seine et à l'est par les communes de Saint-Mandé et de Charenton-le-Pont, le territoire du 12e arrondissement comprend également le bois de Vincennes au sud-est.
