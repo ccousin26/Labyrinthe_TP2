@@ -1,4 +1,4 @@
-#6eme arrondissement
+# 6eme arrondissement
 
 ![Image 6eme arrondissement](/jeu-heros-paris/img6eme.jpg "Image 6eme arrondissement")
 
