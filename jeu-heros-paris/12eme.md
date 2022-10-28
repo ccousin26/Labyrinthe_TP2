@@ -11,6 +11,6 @@ Avec le bois de Vincennes, sa superficie totale atteint 16,32 km2, ce qui en fai
 [2eme arrondissement](2.md)
 [11eme arrondissement](11eme.md)
 [13eme arrondissement](13.md)
-[Sortie](10eme.md)
+[10eme arrondissement](10eme.md)
 
 Luc Mendome
